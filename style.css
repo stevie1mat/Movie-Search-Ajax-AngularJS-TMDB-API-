@@ -1,0 +1,50 @@
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+.jumbotron{
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  background-color: background: #348F50; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #348F50 , #56B4D3); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #348F50 , #56B4D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+/*   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KSxmr4ujIhXMZWG6r_Vy1imDo71iIVjGX91_X-Zr7lR_YSSDkg"); */
+  font-family: 'Ubuntu', sans-serif;
+/*     text-shadow: 2px 2px black; */
+}
+
+input{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-left: 35%;
+  padding: 10px;
+  margin-bottom: 5%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#title{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.poster{
+  text-align: center;
+}
+
+
+.overview {
+  margin-top: 25%;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img{
+  width: 70%;
+  text-align: center;
+}
+
+.rating{
+  text-align: center;
+  font-weight: bolder;
+}
